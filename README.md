@@ -1,6 +1,3 @@
-# sgv-dividend-graphs (German only)
-Python script to read in .csv of dividend dates, group them by month and output distribution and cumulative graph
-
 # Dividendenkalender 2019 – Wann werden Dividenden gezahlt?
 Im April, Mai und Juni ist Dividendensaison. Das ist bekannt. Zwecks Liquiditätsplanung haben wir die Auszahlungstermine genauer analysiert. Fig. 1 zeigt die monatlichen Dividendenzahlungen.
 
